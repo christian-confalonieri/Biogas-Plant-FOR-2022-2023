@@ -41,7 +41,7 @@ Plan the supply and inventory of your biogas plant with the goal of maximizing y
 ## Team
 |                         |                         |                         |
 |-------------------------|-------------------------|-------------------------|
-| Luca Brembilla          | Christian Confalonieri  | Grecya D'Angiò          |
+| [Luca Brembilla][github-link-1]          | [Christian Confalonieri][github-link-2]  | Grecya D'Angiò          |
 |                         |                         |                         |
 
 <h2>Copyright and license</h2>
@@ -52,3 +52,5 @@ Licensed under the **[MIT License][license]**; you may not use this software exc
 
 [license]: https://github.com/christian-confalonieri/Biogas-Plant-FOR-2022-2023/blob/main/LICENSE
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
+[github-link-1]: https://github.com/LucaBrembilla
+[github-link-2]: https://github.com/christian-confalonieri
