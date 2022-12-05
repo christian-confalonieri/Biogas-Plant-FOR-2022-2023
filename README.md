@@ -38,6 +38,12 @@ Due to state regulations, all biogas plants can produce a maximum of 1950 MWh of
 
 Plan the supply and inventory of your biogas plant with the goal of maximizing your profits (i.e., revenues minus costs).
 
+## Team
+|                         |                         |                         |
+|-------------------------|-------------------------|-------------------------|
+| Luca Brembilla          | Christian Confalonieri  | Grecya D'Angiò          |
+|                         |                         |                         |
+
 <h2>Copyright and license</h2>
 
 This project is copyright 2022.
