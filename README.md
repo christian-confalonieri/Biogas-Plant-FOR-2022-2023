@@ -6,7 +6,7 @@ This project is an optional activity of "Foundations of Operations Research", co
 
 **Professor**: Federico Malucelli
 
-**Final Score**:  / 4
+**Final Score**: 4 / 4
 
 <h2>Project specification</h2>
 
