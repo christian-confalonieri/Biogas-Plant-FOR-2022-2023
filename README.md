@@ -2,7 +2,7 @@
 
 [![License: MIT][license-image]][license]
 
-This project is an optional activity of "Foundations of Operations Research", course of "**Computer Science and Engineering**" held at Politecnico di Milano (2022/2023).
+This project is an optional activity of "Foundations of Operations Research", course of "**Computer Science and Engineering**" (MSc) held at Politecnico di Milano (2022/2023).
 
 **Professor**: Federico Malucelli
 
